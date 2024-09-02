@@ -51,7 +51,7 @@ nav ul li a {
 }
 
 .hero-section {
-    background-image: url('../img2.jpg');
+    background-image: url('../CODSOFT-2/img2.jpg');
     background-size: cover;
     background-position: center;
     height: 550px;
@@ -113,7 +113,7 @@ nav ul li a {
 }
 
 .services-section {
-    background-color: #fff;
+    background-color: #a1ed9b;
 }
 
 .services-section h2 {
@@ -125,12 +125,13 @@ nav ul li a {
     display: flex;
     justify-content: space-around;
     margin-top: 40px;
+    padding: 2px;
 }
 
 .service-card {
     background: #f1f1f1;
     border-radius: 10px;
-    padding: 30px;
+    padding: 35px;
     width: 30%;
     transition: transform 0.3s ease;
 }
@@ -168,7 +169,7 @@ nav ul li a {
     display: flex;
     align-items: center;
     padding: 20px;
-    background: #fff;
+    background-color: #a1ed9b;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 20px 0;
@@ -198,7 +199,7 @@ nav ul li a {
 
 .contact-section {
     padding: 60px 20px;
-    background-color: #fff;
+    background-color: #a1ed9b;
     text-align: center;
 }
 
